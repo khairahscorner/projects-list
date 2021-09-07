@@ -22,8 +22,9 @@ Online shop for sale and purchase of scarves by Khay Clothing, using vue.js, cus
 
 Live at: https://shop.khairahscorner.com
 
-## 4. GitHub Repo replica
 
-Repository page replicate. 
+## 4. Others
 
-Live at: https://githubgraphql.netlify.app/
+MCF website: https://mentalcare.life
+Fitila: https://fitila.mentalcare.life
+Website: https://jefproject.netlify.app/
