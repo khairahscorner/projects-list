@@ -1,30 +1,9 @@
-## Projects With Private Repos
+## Other Projects
 
-A list of personal projects with sensitive data (i.e personal tokens, keys, etc)
+A list of personal/test projects attributed to me.
 
-
-
-## 1. Treasure Project
-
-Project for Treasure. With YouTube Data and IFrame Player API.
-
-Live at: https://treasureproject.netlify.app
-
-## 2. AutiMS
-
-Final-Year Project: A management platform for therapists and families of patients with Autism undergoing therapy. Full documentation can be found in the "documentation" folder in repo. 
-
-Live at: https://autims.netlify.app/
-
-## 3. Online Shop
-
-Online shop for sale and purchase of scarves by Khay Clothing, using vue.js, custom-built shop feature with Paystack as a payment portal. 
-
-Live at: https://shop.khairahscorner.com
-
-
-## 4. Others
-
+## Links
+Online shop: https://shop.khairahscorner.com
 MCF website: https://mentalcare.life
 Fitila: https://fitila.mentalcare.life
 Website: https://jefproject.netlify.app/
