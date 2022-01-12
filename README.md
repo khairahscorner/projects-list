@@ -3,7 +3,10 @@
 A list of personal/test projects attributed to me.
 
 ## Links
-Online shop: https://shop.khairahscorner.com
-MCF website: https://mentalcare.life
-Fitila: https://fitila.mentalcare.life
-Website: https://jefproject.netlify.app/
+1. Online shop: https://shop.khairahscorner.com
+
+2. MCF website: https://mentalcare.life
+
+3. Fitila: https://fitila.mentalcare.life
+
+4. Website: https://jefproject.netlify.app/
